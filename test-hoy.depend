@@ -1,0 +1,209 @@
+# depslib dependency file v1.0
+1718329924 source:c:\users\matias\desktop\tp_final -20240614t112313z-001\tp_final\test-hoy\alta.c
+	"alta.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1718329924 c:\users\matias\desktop\tp_final -20240614t112313z-001\tp_final\test-hoy\alta.h
+	<time.h>
+	"pila.h"
+
+1718328739 c:\users\matias\desktop\tp_final -20240614t112313z-001\tp_final\test-hoy\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718369057 source:c:\users\matias\desktop\tp_final -20240614t112313z-001\tp_final\test-hoy\baja.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"baja.h"
+
+1718322529 c:\users\matias\desktop\tp_final -20240614t112313z-001\tp_final\test-hoy\baja.h
+	"alta.h"
+	"consulta.h"
+	"MODIFICACION.h"
+
+1718318279 c:\users\matias\desktop\tp_final -20240614t112313z-001\tp_final\test-hoy\consulta.h
+	"alta.h"
+
+1718369953 c:\users\matias\desktop\tp_final -20240614t112313z-001\tp_final\test-hoy\modificacion.h
+	"alta.h"
+	"consulta.h"
+
+1718367556 source:c:\users\matias\desktop\tp_final -20240614t112313z-001\tp_final\test-hoy\consulta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"consulta.h"
+
+1718369401 source:c:\users\matias\desktop\tp_final -20240614t112313z-001\tp_final\test-hoy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alta.h"
+	"baja.h"
+	"MODIFICACION.h"
+	"consulta.h"
+	"ordenamiento.h"
+	"pila.h"
+
+1718285400 c:\users\matias\desktop\tp_final -20240614t112313z-001\tp_final\test-hoy\ordenamiento.h
+	<stdio.h>
+	<stdlib.h>
+	"alta.h"
+
+1718372277 source:c:\users\matias\desktop\tp_final -20240614t112313z-001\tp_final\test-hoy\modificacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"MODIFICACION.h"
+
+1718285394 source:c:\users\matias\desktop\tp_final -20240614t112313z-001\tp_final\test-hoy\ordenamiento.c
+	"ordenamiento.h"
+
+1490112218 source:c:\users\matias\desktop\tp_final -20240614t112313z-001\tp_final\test-hoy\pila.c
+	"pila.h"
+
+1718329924 source:c:\users\santi\desktop\test-hoy\test-hoy\alta.c
+	"alta.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1718329924 c:\users\santi\desktop\test-hoy\test-hoy\alta.h
+	<time.h>
+	"pila.h"
+
+1718328739 c:\users\santi\desktop\test-hoy\test-hoy\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718369057 source:c:\users\santi\desktop\test-hoy\test-hoy\baja.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"baja.h"
+
+1718322529 c:\users\santi\desktop\test-hoy\test-hoy\baja.h
+	"alta.h"
+	"consulta.h"
+	"MODIFICACION.h"
+
+1718318279 c:\users\santi\desktop\test-hoy\test-hoy\consulta.h
+	"alta.h"
+
+1718369953 c:\users\santi\desktop\test-hoy\test-hoy\modificacion.h
+	"alta.h"
+	"consulta.h"
+
+1718367556 source:c:\users\santi\desktop\test-hoy\test-hoy\consulta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"consulta.h"
+
+1718369401 source:c:\users\santi\desktop\test-hoy\test-hoy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alta.h"
+	"baja.h"
+	"MODIFICACION.h"
+	"consulta.h"
+	"ordenamiento.h"
+	"pila.h"
+
+1718285400 c:\users\santi\desktop\test-hoy\test-hoy\ordenamiento.h
+	<stdio.h>
+	<stdlib.h>
+	"alta.h"
+
+1716860513 source:c:\users\santi\desktop\test-hoy\test-hoy\modificacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"MODIFICACION.h"
+
+1718285394 source:c:\users\santi\desktop\test-hoy\test-hoy\ordenamiento.c
+	"ordenamiento.h"
+
+1490112218 source:c:\users\santi\desktop\test-hoy\test-hoy\pila.c
+	"pila.h"
+
+1718369057 source:c:\users\matti\desktop\test-hoy\test-hoy\baja.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"baja.h"
+
+1718322529 c:\users\matti\desktop\test-hoy\test-hoy\baja.h
+	"alta.h"
+	"consulta.h"
+	"MODIFICACION.h"
+
+1719187105 c:\users\matti\desktop\test-hoy\test-hoy\alta.h
+	<time.h>
+	"pila.h"
+
+1718328739 c:\users\matti\desktop\test-hoy\test-hoy\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718318279 c:\users\matti\desktop\test-hoy\test-hoy\consulta.h
+	"alta.h"
+
+1718369953 c:\users\matti\desktop\test-hoy\test-hoy\modificacion.h
+	"alta.h"
+	"consulta.h"
+
+1718367556 source:c:\users\matti\desktop\test-hoy\test-hoy\consulta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"consulta.h"
+
+1716861771 source:c:\users\matti\desktop\test-hoy\test-hoy\modificacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"MODIFICACION.h"
+
+1719191736 source:c:\users\matti\desktop\test-hoy\test-hoy\ordenamiento.c
+	"ordenamiento.h"
+
+1719191203 c:\users\matti\desktop\test-hoy\test-hoy\ordenamiento.h
+	<stdio.h>
+	<stdlib.h>
+	"alta.h"
+
+1490112218 source:c:\users\matti\desktop\test-hoy\test-hoy\pila.c
+	"pila.h"
+
+1719191622 source:c:\users\matti\desktop\test-hoy\test-hoy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alta.h"
+	"baja.h"
+	"MODIFICACION.h"
+	"consulta.h"
+	"ordenamiento.h"
+
+1719185788 source:c:\users\matti\desktop\test-hoy\test-hoy\alta.c
+	"alta.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
